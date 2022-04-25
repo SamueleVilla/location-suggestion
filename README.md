@@ -1,7 +1,9 @@
 # Come caricare il progetto
 
-1 - eseguire il file 'localita.sql' sulla shell del vostro MySQL
+1 - clonare la repository nella cartella di apache ( con PHP installato )
 
-2 - clonare il progetto nella cartella di apache ( con PHP installato )
+2 - eseguire il file 'localita.sql' nella shell di MySQl
 
-3 - aprire il web browser con la path corretta
+3 - eventualmente modificare i dati del vostro MySQL nel file /php/config.php
+
+4 - aprire nel web browser la cartella relativa es (http://localhost/php/locationSuggestion)
