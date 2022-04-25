@@ -1,5 +1,3 @@
-# location-suggestion
-
 # Come caricare il progetto
 
 1 - eseguire il file 'localita.sql' sulla shell del vostro MySQL
